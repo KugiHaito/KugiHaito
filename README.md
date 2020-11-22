@@ -38,9 +38,9 @@ dev.showStatus()
 
 <p align="center">
 	<a alt="Paradox" href="https://github.com/KugiHaito/Paradox">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kugihaito&repo=paradox&theme=react&hide_border=true" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kugihaito&repo=paradox&theme=react&hide_border=true&bg_color=212121" />
 	</a>
 	<a alt="IFPBProjetos" href="https://github.com/KugiHaito/IFPBProjetos">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kugihaito&repo=ifpbprojetos&theme=react&hide_border=true" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kugihaito&repo=ifpbprojetos&theme=react&hide_border=true&bg_color=212121" />
 	</a>
 </p>

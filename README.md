@@ -1,16 +1,46 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://github.com/KugiHaito/KugiHaito/blob/main/cover.png">
+</div>
 
-<!--
-**KugiHaito/KugiHaito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Kugi Haito</h1>
 
-Here are some ideas to get you started:
+```js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+document.write("Hello, World!");
+
+var status = 
+{ 
+  learning: [React, PostCSS],
+  working:  [Paradox, LABProjects]
+}
+
+const skills = 
+{
+  languages:  [PHP, Python, Html, CSS, Sass, Javascript],
+  ide:        [VSCode, Sublime Text, Adobe XD],
+  libraries:  [Jquery, Kivy],
+  frameworks: [Bootstrap, React, Node, Electron],
+  databases:  [Sqlite3, MySql],
+  platforms:  [Web, Desktop]
+}
+
+
+Developer dev = new Developer("Kugi Haito", { status, skills });
+dev.showStatus()
+
+```
+
+| Stats Profile | Most Used Languages |
+| ------------- | ------------- |
+| [![Kugi Haito's Github Stats](https://github-readme-stats.vercel.app/api?username=kugihaito&hide_border=true&theme=react&show_icons=true&bg_color=212121&count_private=true&include_all_commits=true&custom_title=Kugi%20Haito's%20GitHub%20Status)](https://github.com/KugiHaito) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kugihaito&hide=scss&hide_title=true&hide_border=true&bg_color=212121&text_color=ffffff&card_width=400)](https://github.com/KugiHaito?tab=repositories) |
+
+<h2 align="center">Favorites Projects</h2>
+
+<p align="center">
+	<a alt="Paradox" href="https://github.com/KugiHaito/Paradox">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kugihaito&repo=paradox&theme=react&hide_border=true" />
+	</a>
+	<a alt="IFPBProjetos" href="https://github.com/KugiHaito/IFPBProjetos">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kugihaito&repo=ifpbprojetos&theme=react&hide_border=true" />
+	</a>
+</p>

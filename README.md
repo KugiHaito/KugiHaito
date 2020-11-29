@@ -1,3 +1,7 @@
+<a href="https://github.com/users/KugiHaito/projects/3">
+  <img src="https://img.shields.io/badge/Project-%E2%9C%B3%202020%2F2021%20Updates-blue?style=flat-square" />
+</a>
+
 <div align="center">
     <img src="https://github.com/KugiHaito/KugiHaito/blob/main/cover.png">
 </div>
@@ -16,7 +20,7 @@ var status =
 
 const skills = 
 {
-  languages:  [PHP, Python, Html, CSS, Sass, Javascript],
+  languages:  [PHP, Python, HTML, CSS, Sass, Javascript],
   ide:        [VSCode, Sublime Text, Adobe XD],
   libraries:  [Jquery, Kivy],
   frameworks: [Bootstrap, React, Node, Electron],

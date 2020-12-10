@@ -1,3 +1,7 @@
+<a href="https://github.com/users/KugiHaito/projects/3">
+  <img src="https://img.shields.io/badge/Project-%E2%9C%B3%202020%2F2021%20Updates-blue?style=flat-square" />
+</a>
+
 <div align="center">
     <img src="https://www.emoji.co.uk/files/twitter-emojis/animals-nature-twitter/10721-leaf-fluttering-in-wind.png">
 </div>

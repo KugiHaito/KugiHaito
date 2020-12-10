@@ -3,42 +3,42 @@
 </a>
 
 <div align="center">
-    <img src="https://github.com/KugiHaito/KugiHaito/blob/main/cover.png">
+    <img src="https://www.emoji.co.uk/files/twitter-emojis/animals-nature-twitter/10721-leaf-fluttering-in-wind.png">
 </div>
 
-<h1 align="center">Hi, I'm Kugi Haito</h1>
+<h1 align="center">🍃Hi, I'm Kugi Haito🍃</h1>
 
 ```js
 
-document.write("Hello, World!");
+document.write("🍃Hello, World!🍃");
 
 var status = 
 { 
-  learning: [React, PostCSS],
-  working:  [Paradox, LABProjects]
+  learning: [🍃React🍃, 🍃PostCSS🍃],
+  working:  [🍃Paradox🍃, 🍃LABProjects🍃]
 }
 
 const skills = 
 {
-  languages:  [PHP, Python, HTML, CSS, Sass, Javascript],
-  ide:        [VSCode, Sublime Text, Adobe XD],
-  libraries:  [Jquery, Kivy],
-  frameworks: [Bootstrap, React, Node, Electron],
-  databases:  [Sqlite3, MySql],
-  platforms:  [Web, Desktop]
+  languages:  [🍃PHP🍃, 🍃Python🍃, 🍃Html🍃, 🍃CSS🍃, 🍃Sass🍃, 🍃Javascript🍃],
+  ide:        [🍃VSCode🍃, 🍃Sublime Text🍃, 🍃Adobe XD🍃],
+  libraries:  [🍃Jquery🍃, 🍃Kivy🍃],
+  frameworks: [🍃Bootstrap🍃, 🍃React🍃, 🍃Node🍃, 🍃Electron🍃],
+  databases:  [🍃Sqlite3🍃, 🍃MySql🍃],
+  platforms:  [🍃Web🍃, 🍃Desktop🍃]
 }
 
 
-Developer dev = new Developer("Kugi Haito", { status, skills });
+Developer dev = new Developer("🍃Kugi Haito🍃", { status, skills });
 dev.showStatus()
 
 ```
 
-| Stats Profile | Most Used Languages |
+| 🍃Stats Profile🍃 | 🍃Most Used Languages🍃 |
 | ------------- | ------------- |
-| [![Kugi Haito's Github Stats](https://github-readme-stats.vercel.app/api?username=kugihaito&hide_border=true&theme=react&show_icons=true&bg_color=212121&count_private=true&include_all_commits=true&custom_title=Kugi%20Haito's%20GitHub%20Status)](https://github.com/KugiHaito) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kugihaito&hide=scss&hide_title=true&hide_border=true&bg_color=212121&text_color=ffffff&card_width=400)](https://github.com/KugiHaito?tab=repositories) |
+| [![🍃Kugi Haito's Github Stats🍃](https://github-readme-stats.vercel.app/api?username=kugihaito&hide_border=true&theme=react&show_icons=true&bg_color=212121&count_private=true&include_all_commits=true&custom_title=Kugi%20Haito's%20GitHub%20Status)](https://github.com/KugiHaito) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kugihaito&hide=scss&hide_title=true&hide_border=true&bg_color=212121&text_color=ffffff&card_width=400)](https://github.com/KugiHaito?tab=repositories) |
 
-<h2 align="center">Favorites Projects</h2>
+<h2 align="center">🍃Favorites Projects🍃</h2>
 
 <p align="center">
 	<a alt="Paradox" href="https://github.com/KugiHaito/Paradox">

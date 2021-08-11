@@ -14,7 +14,7 @@ document.write("Hello, World!");
 
 var status = 
 { 
-  activity: "Paused!"
+  activity: "Paused",
   learning: [React, PostCSS],
   working:  [Paradox, LABProjects]
 }

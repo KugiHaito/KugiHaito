@@ -14,17 +14,17 @@ document.write("Hello, World!");
 
 var status = 
 { 
-  activity: "Paused",
-  learning: [React, PostCSS],
-  working:  [Paradox, LABProjects]
+  activity: "Studying",
+  learning: Typescript,
+  working:  CSSObject.js
 }
 
 const skills = 
 {
-  languages:  [PHP, Python, HTML, CSS, Sass, Javascript],
+  languages:  [JavaScript, HTML, CSS, Sass, PHP, Python],
   ide:        [VSCode, Sublime Text, Adobe XD],
   libraries:  [Jquery, Kivy],
-  frameworks: [Bootstrap, React, Node, Electron],
+  frameworks: [Bootstrap, Node, Electron],
   databases:  [Sqlite3, MySql],
   platforms:  [Web, Desktop]
 }

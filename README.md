@@ -23,9 +23,6 @@ const skills =
 {
   languages:  [JavaScript, HTML, CSS, Sass, PHP, Python],
   ide:        [VSCode, Sublime Text, Adobe XD],
-  libraries:  [Jquery, Kivy],
-  frameworks: [Bootstrap, Node, Electron],
-  databases:  [Sqlite3, MySql],
   platforms:  [Web, Desktop]
 }
 

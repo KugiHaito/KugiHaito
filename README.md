@@ -34,7 +34,7 @@ dev.showStatus()
 
 | Stats Profile | Most Used Languages |
 | ------------- | ------------- |
-| [![Kugi Haito's Github Stats](https://github-readme-stats.vercel.app/api?username=kugihaito&hide_border=true&theme=react&show_icons=true&bg_color=212121&count_private=true&include_all_commits=true&custom_title=Kugi%20Haito's%20GitHub%20Status)](https://github.com/KugiHaito) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kugihaito&hide=scss&hide_title=true&hide_border=true&bg_color=212121&text_color=ffffff&card_width=400)](https://github.com/KugiHaito?tab=repositories) |
+| [![Kugi Haito's Github Stats](https://github-readme-stats.vercel.app/api?username=kugihaito&hide_border=true&theme=react&show_icons=true&bg_color=212121&count_private=true&include_all_commits=true&custom_title=Kugi%20Haito's%20GitHub%20Status)](https://github.com/KugiHaito) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kugihaito&hide=scss,html&hide_title=true&hide_border=true&bg_color=212121&text_color=ffffff&card_width=400)](https://github.com/KugiHaito?tab=repositories) |
 
 <h2 align="center">Favorites Projects</h2>
 

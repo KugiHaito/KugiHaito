@@ -6,30 +6,33 @@
     <img src="https://github.com/KugiHaito/KugiHaito/blob/main/cover.png">
 </div> -->
 
-<h1>Hi, I'm Kugi Haito</h1>
+<h1>Hi, I'm Kugi Haito 🍪</h1>
 
 ```js
-
 document.write("Hello, World!");
 
-var status = 
-{ 
-  activity: "Studying",
-  learning: Typescript,
-  working:  CSSObject.js
+const Developer = (nickname, statskills) => {
+	return {
+		nickname,
+		...statskills,
+		showStatus: () => console.log(nickname, statskills)
+	}
 }
 
-const skills = 
-{
-  languages:  [JavaScript, HTML, CSS, Sass, PHP, Python],
-  ide:        [VSCode, Sublime Text, Adobe XD],
-  platforms:  [Web, Desktop]
-}
+let dev = new Developer("Kugi Haito", {
+	status: {
+		activity: "Studying...",
+		learning: "Typescript",
+		working:  "CSSObject.js"
+	},
+	skills: {
+		platforms:  ["Web", "Desktop"],
+		languages:  ["JavaScript", "HTML", "CSS", "Sass", "Python"],
+		ide:        ["VSCode", "Sublime Text", "Adobe XD"],
+	}
+})
 
-
-Developer dev = new Developer("Kugi Haito", { status, skills });
 dev.showStatus()
-
 ```
 
 | Stats Profile | Most Used Languages |

@@ -2,11 +2,11 @@
   <img src="https://img.shields.io/badge/Project-%E2%9C%B3%202020%2F2021%20Updates-blue?style=flat-square" />
 </a>
 
-<div align="center">
+<!-- <div align="center">
     <img src="https://github.com/KugiHaito/KugiHaito/blob/main/cover.png">
-</div>
+</div> -->
 
-<h1 align="center">Hi, I'm Kugi Haito</h1>
+<h1>Hi, I'm Kugi Haito</h1>
 
 ```js
 

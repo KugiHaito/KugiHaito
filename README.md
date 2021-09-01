@@ -9,8 +9,6 @@
 <h1>Hi, I'm Kugi Haito 🍪</h1>
 
 ```js
-document.write("Hello, World!");
-
 const Developer = (nickname, statskills) => {
 	return {
 		nickname,

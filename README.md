@@ -9,7 +9,7 @@
 <h1>Hi, I'm Kugi Haito 🍪</h1>
 
 ```js
-const Developer = (nickname, statskills) => {
+const Developer = function(nickname, statskills) {
 	return {
 		nickname,
 		...statskills,

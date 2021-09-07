@@ -27,8 +27,7 @@ let dev = new Developer("Kugi Haito", {
 		platforms:  ["Web", "Desktop"],
 		languages:  ["JavaScript", "HTML", "CSS", "Sass", "Python"],
 		ide:        ["VSCode", "Sublime Text", "Adobe XD"],
-	}
-})
+}})
 
 dev.showStatus()
 ```

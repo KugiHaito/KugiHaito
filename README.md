@@ -21,7 +21,7 @@ let dev = new Developer("Kugi Haito", {
 	status: {
 		activity: "Studying...",
 		learning: "Typescript",
-		working:  "CSSObject.js"
+		working:  "CSSObject.js",
 	},
 	skills: {
 		platforms:  ["Web", "Desktop"],

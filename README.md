@@ -16,7 +16,7 @@ const Developer = function(nickname, statskills) {
 let dev = new Developer("Kugi Haito", {
     status: {
         activity: "Studying...",
-        learning: "Typescript",
+        learning: ["Vue.js", "Typescript"],
         working:  "CSSObject.js",
     },
     skills: {
